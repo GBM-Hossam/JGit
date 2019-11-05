@@ -4,5 +4,6 @@ public class TestConflicit
 
 {
 	public void test() {
+		System.out.println("New Branch");
 	}
 }

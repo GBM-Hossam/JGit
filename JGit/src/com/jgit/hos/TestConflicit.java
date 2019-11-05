@@ -1,5 +1,5 @@
 package com.jgit.hos;
 
-public abstract class TestConflicit {
+public static class TestConflicit {
 
 }
